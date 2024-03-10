@@ -1,0 +1,285 @@
+@font-face{
+    font-family: 'myriad pro light';
+    src: url(../fuentes/Myriad\ Pro\ Light.otf);
+}
+
+@font-face{
+    font-family: 'myriad pro regular';
+    src: url(../fuentes/Myriad\ Pro\ Regular.ttf);
+    font-weight: bold;
+}
+
+
+body{
+    margin: 0;
+    position: relative;
+    width: 100vw; 
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+section.home{
+    position: relative;
+    margin: 0;
+    width: 100vw;
+    height: 10vh;
+}
+.cuadrito {
+    position: absolute;    
+    width: 100vw; 
+    height: 7.5vh; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+div.linea{
+    position: absolute;
+    margin: 0%;
+    width: 100vw; 
+    border: 2px solid gray;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    transform: translateY(2.08vw);
+}
+.anadir{
+    position: absolute;
+    top: 1.25vw;
+    left: 9.79vw;
+    height: auto;
+    width: 1.5vw;
+}
+
+.XS {
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-family: 'myriad pro regular';
+    font-size: 1.3vw;
+    top: 1.1vw;
+    left: 12vw;
+}
+
+.reload {
+    position: absolute;
+    top: 1.3vw;
+    left: 22.03vw;
+    height: auto;
+    width: 1.4vw;
+    
+}
+
+.XM{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-family: 'myriad pro regular';
+    font-size: 1.3vw;
+    top: 1.2vw;
+    left: 23.95vw;
+}
+
+.delete{
+    position: absolute;
+    top: 1.2vw;
+    left: 35.31vw;
+    width: 1.3vw;
+    height: auto;
+}
+
+.XL{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-family: 'myriad pro regular';
+    font-size: 1.5vw;
+    top: 1.2vw;
+    left: 37.13vw;
+}
+
+.icono{
+    position: absolute;
+    left: 51.5vw;
+    top: 0.8vw;
+    height: 2vw;
+}
+
+.report{
+    position: absolute;
+    height: 1.89vw;
+    top: 1vw;
+    left:63.43vw;
+}
+
+.S{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-family: 'myriad pro regular';
+    font-size: 1.2vw;
+    left: 65.8vw;
+    top: 1.2vw;
+}
+
+.help{
+    position: absolute;
+    left: 77.76vw;
+    height: auto;
+    width: 1.85vw;
+    top: 1vw;
+}
+
+.SS{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-family: 'myriad pro regular';
+    left: 80.20vw;
+    top: 1.2vw;
+    font-size: 1.2vw;
+}
+
+.SSS{
+    position: absolute;
+    top: 1.45vw;
+    left: 92.23vw;
+    height: auto;
+    width: 1.09vw;
+}
+
+.EG{
+    position: absolute;
+    top: 1.55vw;
+    left: 94.14vw;
+    height: auto;
+    width:  0.98vw;
+}
+
+.menu {
+    position: absolute;
+    top: 0.5vw;
+    left: 96vw;
+    display: inline-block;
+}
+
+.pedrito img {
+    width: 2.6vw;
+    height: auto;
+    cursor: pointer;
+}
+
+.toggle {
+    display: none;
+}
+
+.menu-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #fff;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    z-index: 1;
+    font-size:1vw;
+    white-space: nowrap;
+}
+
+.toggle:checked + .menu-content {
+    display: block;
+}
+
+.menu-content a {
+    display: block;
+    text-decoration: none;
+    font-family: 'myriad pro light';
+    color: #000;
+    padding: 0.5rem 1rem;
+}
+
+.menu-content a:hover {
+    background-color: #f2f2f2;
+}
+
+.formula{
+    position: relative;
+    margin: 0;
+    width: 100vw;
+    height: 50vw;
+}
+
+.txt1{
+    position: absolute;
+    font-family: 'myriad pro regular';
+    font-size: 2.08vw;
+    top: -2vh;
+    left: 45.5vw;
+}
+
+.txt2{
+    position: absolute;
+    font-family: 'myriad pro light';
+    font-size: 1.04167vw;
+    top: 7.5vh;
+    left: 46vw;
+}
+
+.txt3{
+    position: absolute;
+    font-family: 'myriad pro light';
+    font-size: 1.2vw;
+    top: 13vh;
+    left: 35.5vw;
+}
+
+.cuadrito1{
+    position: absolute;
+    left: 35.5vw;
+    top: 22vh;
+    width: 30vw;
+    height: 4vh;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.txt4{
+    position: absolute;
+    font-family: 'myriad pro light';
+    font-size: 1.2vw;
+    top: 34vh;
+    left: 35.5vw; 
+}
+
+.cuadrito2{
+    position: absolute;
+    left: 35.5vw;
+    top: 44vh;
+    width: 30vw;
+    height: 20vh;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.boton{
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    left: 48vw;
+    top: 75vh;
+    width: 10.15vw;
+    height: 2.39vw;
+    font-family: 'myriad pro light';
+    background-color: #fc6d2d;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    line-height: 2.39vw;
+    font-size: 1.04vw;
+}
