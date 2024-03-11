@@ -1,3 +1,13 @@
+@font-face{
+    font-family: 'myriad pro light';
+    src: url(../fuentes/Myriad\ Pro\ Light.otf);
+}
+
+@font-face{
+    font-family: 'myriad pro regular';
+    src: url(../fuentes/Myriad\ Pro\ Regular.ttf);
+    font-weight: bold;
+}
 *{
     margin: 0;
     padding: 0;
@@ -118,7 +128,7 @@ h2{
 }
 .Boton{
     position: absolute;
-    background-color: orangered;
+    background-color: #ff7221;
     font-size: 1.6em;
     top: 24vi;
     left: 12.5vi;
@@ -126,4 +136,5 @@ h2{
     height: 3vi;
     opacity: 1;
     border-radius: 1.9em;
+    cursor: pointer;
 }
