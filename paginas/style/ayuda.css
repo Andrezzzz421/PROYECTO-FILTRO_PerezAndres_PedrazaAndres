@@ -17,6 +17,8 @@ body{
     height: 100vh;
     overflow-x: hidden;
     overflow-y: hidden;
+    background-color: black;
+    background-image: url(../images/back.png);
 }
 
 section.home{
@@ -24,18 +26,20 @@ section.home{
     margin: 0;
     width: 100vw;
     height: 10vh;
+
 }
 .cuadrito {
     position: absolute;    
     width: 100vw; 
-    height: 3.5vi; 
+    height: 3.8vi; 
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    
-    
+    z-index: 1;
+    background-color: rgb(196, 191, 191);
 }
+
 div.linea{
+    top: 1.6vi;
     position: absolute;
     margin: 0%;
     width: 100vw; 
@@ -51,6 +55,7 @@ div.linea{
     left: 5vw;
     height: auto;
     width: 1.5vw;
+    z-index: 1;
 }
 
 .XS {
@@ -59,8 +64,9 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.33vw;
+    top: 1.15vw;
     left: 7vw;
+    z-index: 1;
 }
 
 .reload {
@@ -69,7 +75,7 @@ div.linea{
     left: 18vw;
     height: auto;
     width: 1.4vw;
-    
+    z-index: 1;
 }
 
 .XM{
@@ -78,8 +84,9 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.34vw;
+    top: 1.15vw;
     left: 20vw;
+    z-index: 1;
 }
 
 .delete{
@@ -88,6 +95,7 @@ div.linea{
     left: 33vw;
     width: 1.2vw;
     height: auto;
+    z-index: 1;
 }
 
 .XL{
@@ -96,8 +104,9 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.4vw;
+    top: 1.15vw;
     left: 35vw;
+    z-index: 1;
 }
 
 .icono{
@@ -105,6 +114,7 @@ div.linea{
     left: 49vw;
     top: 0.8vw;
     height: 2vw;
+    z-index: 1;
 }
 
 .report{
@@ -112,6 +122,7 @@ div.linea{
     height: 1.89vw;
     top: 1vw;
     left:62vw;
+    z-index: 1;
 }
 
 .S{
@@ -121,7 +132,8 @@ div.linea{
     font-family: 'myriad pro regular';
     font-size: 1.2vw;
     left: 64vw;
-    top: 1.25vw;
+    top: 1.15vw;
+    z-index: 1;
 }
 
 .help{
@@ -130,6 +142,7 @@ div.linea{
     height: auto;
     width: 1.85vw;
     top: 1vw;
+    z-index: 1;
 }
 
 .SS{
@@ -138,8 +151,9 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     left: 78.5vw;
-    top: 1.2vw;
+    top: 1.15vw;
     font-size: 1.2vw;
+    z-index: 1;
 }
 
 .SSS{
@@ -148,6 +162,7 @@ div.linea{
     left: 92.23vw;
     height: auto;
     width: 1.09vw;
+    z-index: 1;
 }
 
 .EG{
@@ -156,6 +171,7 @@ div.linea{
     left: 94.14vw;
     height: auto;
     width:  0.98vw;
+    z-index: 1;
 }
 
 .menu {
@@ -163,12 +179,14 @@ div.linea{
     top: 0.5vw;
     left: 96vw;
     display: inline-block;
+    z-index: 1;
 }
 
 .pedrito img {
     width: 2.6vw;
     height: auto;
     cursor: pointer;
+    z-index: 1;
 }
 
 .toggle {
@@ -207,8 +225,11 @@ div.linea{
 .formula{
     position: relative;
     margin: 0;
-    width: 100vw;
-    height: 50vw;
+    left: 26vw;
+    width:48vw;
+    height: 82vh;
+    border-radius: 2vw;
+    background: linear-gradient(to right, white, #808080);
 }
 
 .txt1{
@@ -216,7 +237,7 @@ div.linea{
     font-family: 'myriad pro regular';
     font-size: 2.08vw;
     top: -2vh;
-    left: 45.5vw;
+    left: 19vw;
 }
 
 .txt2{
@@ -224,7 +245,7 @@ div.linea{
     font-family: 'myriad pro light';
     font-size: 1.04167vw;
     top: 7.5vh;
-    left: 46vw;
+    left: 18.5vw;
 }
 
 .txt3{
@@ -232,12 +253,12 @@ div.linea{
     font-family: 'myriad pro light';
     font-size: 1.2vw;
     top: 13vh;
-    left: 35.5vw;
+    left: 2vw;
 }
 
 .cuadrito1{
     position: absolute;
-    left: 35.5vw;
+    left: 2vw;
     top: 22vh;
     width: 30vw;
     height: 4vh;
@@ -251,12 +272,12 @@ div.linea{
     font-family: 'myriad pro light';
     font-size: 1.2vw;
     top: 34vh;
-    left: 35.5vw; 
+    left: 2vw; 
 }
 
 .cuadrito2{
     position: absolute;
-    left: 35.5vw;
+    left: 2vw;
     top: 44vh;
     width: 30vw;
     height: 20vh;
@@ -269,17 +290,22 @@ div.linea{
     position: absolute;
     display: inline-block;
     text-align: center;
-    left: 48vw;
-    top: 75vh;
+    left: 19vw;
+    top: 72vh;
     width: 10.15vw;
     height: 2.39vw;
-    font-family: 'myriad pro light';
-    background-color: #fc6d2d;
-    color: white;
+    font-family: 'myriad pro regular';
+    background-color: white;
+    color: black;
     text-decoration: none;
     border: none;
     border-radius: 10px;
     cursor: pointer;
     line-height: 2.39vw;
     font-size: 1.04vw;
+}
+
+.boton:hover {
+    background-color: gray; 
+    color: #ffffff; 
 }
