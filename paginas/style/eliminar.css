@@ -17,7 +17,7 @@ body{
     height: 100vh;
     overflow-x: hidden;
     overflow-y: hidden;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 
 .notebugues{
@@ -25,7 +25,6 @@ body{
     width: 100vw;
     height: 100vw;
 }
-
 
 section.home{
     position: relative;
@@ -38,8 +37,7 @@ section.home{
     width: 100vw; 
     height: 3.8vi;  
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: space-between; 
     background-color: white;
 }
 
@@ -56,7 +54,7 @@ div.linea{
 }
 .anadir{
     position: absolute;
-    top: 1.23vw;
+    top: 2.4vh;
     left: 5vw;
     height: auto;
     width: 1.5vw;
@@ -68,13 +66,13 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.26vw;
+    top: 2.3vh;
     left: 7vw;
 }
 
 .reload {
     position: absolute;
-    top: 1.3vw;
+    top: 2.5vh;
     left: 18vw;
     height: auto;
     width: 1.4vw;
@@ -87,13 +85,13 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.23vw;
+    top: 2.23vh;
     left: 20vw;
 }
 
 .delete{
     position: absolute;
-    top: 1.2vw;
+    top: 2.4vh;
     left: 33vw;
     width: 1.2vw;
     height: auto;
@@ -105,21 +103,21 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.23vw;
-    left: 35vw;
+    top: 2.6vh;
+    left: 34.6vw;
 }
 
 .icono{
     position: absolute;
     left: 49vw;
-    top: 0.8vw;
+    top: 1.5vh;
     height: 2vw;
 }
 
 .report{
     position: absolute;
     height: 1.89vw;
-    top: 1vw;
+    top: 1.6vh;
     left:62vw;
 }
 
@@ -130,7 +128,7 @@ div.linea{
     font-family: 'myriad pro regular';
     font-size: 1.2vw;
     left: 64vw;
-    top: 1.15vw;
+    top: 2.15vh;
 }
 
 .help{
@@ -138,7 +136,7 @@ div.linea{
     left: 76vw;
     height: auto;
     width: 1.85vw;
-    top: 1vw;
+    top: 2vh;
 }
 
 .SS{
@@ -147,12 +145,14 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     left: 78.5vw;
-    top: 1.15vw;
+    top: 2.3vh;
     font-size: 1.2vw;
 }
+
+
 .SSS{
     position: absolute;
-    top: 1.45vw;
+    top: 2.9vh;
     left: 92.23vw;
     height: auto;
     width: 1.09vw;
@@ -160,7 +160,7 @@ div.linea{
 
 .EG{
     position: absolute;
-    top: 1.55vw;
+    top: 3.1vh;
     left: 94.14vw;
     height: auto;
     width:  0.98vw;
@@ -168,7 +168,7 @@ div.linea{
 
 .menu {
     position: absolute;
-    top: 0.5vw;
+    top: 1vh;
     left: 96vw;
     display: inline-block;
 }
@@ -192,8 +192,9 @@ div.linea{
     padding: 0.5rem;
     border: 1px solid #ccc;
     z-index: 1;
-    font-size: 1vw;
+    font-size:1vw;
     white-space: nowrap;
+    
 }
 
 .toggle:checked + .menu-content {
@@ -205,11 +206,11 @@ div.linea{
     text-decoration: none;
     font-family: 'myriad pro light';
     color: #000;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 1rem;  
 }
 
 .menu-content a:hover {
-    background-color: #f2f2f2;
+    background-color: #fc6d2d;
 }
 
 .formula{
