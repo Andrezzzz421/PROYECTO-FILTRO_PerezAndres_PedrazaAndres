@@ -20,7 +20,7 @@ body{
     background-color: rgb(0, 0, 0);
 }
 
-.notebugues{
+.notebugues2{
     position: absolute;
     width: 100vw;
     height: 100vw;
@@ -440,6 +440,11 @@ div.linea{
     font-size: 1.04vw;
 }
 
+.navigation-menu{
+    display: none;
+
+}
+
 @media only screen 
   and (min-device-width: 414px) 
   and (max-device-width: 896px) 
@@ -452,13 +457,15 @@ div.linea{
         width: 100%;
         overflow-x: hidden;
         overflow-y: hidden;
+        background-image: url(../images/back.png);
+        background-repeat: no-repeat;
+        background-position-x:-100vw;
     }
-    .notebugues{
-        position: absolute;
-        width: auto;
-        height: 100vh;
-        left:-60vw;
-    }  
+
+    .notebugues2{
+        display: none;
+    }
+
     section.home{
         position: relative;
         margin: 0;
@@ -468,7 +475,7 @@ div.linea{
     .cuadrito {
         position: absolute;    
         width: 100vw; 
-        height: 5vi; 
+        height: 10vi; 
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -477,7 +484,7 @@ div.linea{
         
     }
     div.linea{
-        top: 2.7vi;
+        top: 7.8vi;
         position: absolute;
         margin: 0%;
         width: 100vw; 
@@ -493,6 +500,7 @@ div.linea{
         left: 5vw;
         height: auto;
         width: 2.5vw;
+        display: none;
     }
     
     .XS {
@@ -503,6 +511,7 @@ div.linea{
         font-size: 1.7vw;
         top: 1.8vw;
         left: 8vw;
+        display: none;
     }
     
     .reload {
@@ -511,6 +520,7 @@ div.linea{
         left: 18vw;
         height: auto;
         width: 2.3vw;
+        display: none;
         
     }
     
@@ -522,6 +532,7 @@ div.linea{
         font-size: 1.8vw;
         top: 1.45vw;
         left: 21vw;
+        display: none;
     }
     
     .delete{
@@ -530,6 +541,7 @@ div.linea{
         left: 33vw;
         width: 1.8vw;
         height: auto;
+        display: none;
     }
     
     .XL{
@@ -540,20 +552,67 @@ div.linea{
         font-size: 1.8vw;
         top: 1.3vw;
         left: 35.5vw;
+        display: none;
     }
     
-    .icono{
+    .navigation-menu {
         position: absolute;
-        left: 49vw;
-        top: 1.3vw;
-        height: 2vw;
+        top: 0.5vh;
+        left: 46.5vw;
+        display: inline-block;
     }
-    
+
+    .icon img {
+        width: 9vw;
+        height: auto;
+        cursor: pointer;
+    }
+
+    .toggle {
+        display: none;
+    }
+
+    .menu-coment {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color: #fff;
+        padding: 0.5rem;
+        border: 1px solid #ccc;
+        z-index: 1;
+        font-size: 5vw;
+        white-space: nowrap;
+        opacity: 0; 
+        transition: opacity 0.3s ease; 
+
+    }
+
+    .toggle:checked + .menu-coment {
+        display: block;
+        opacity: 1; 
+    }
+
+    .menu-coment a {
+        display: inline-block;
+        text-decoration: none;
+        color: #000;
+        padding: 0.5rem 1rem;
+    }
+
+    .menu-coment a:hover {
+        background-color: #f2f2f2;
+    }
+
+    .menu-img{
+        width: 1.5vh;
+    }
     .report{
         position: absolute;
         height: 2.5vw;
         top: 1vw;
         left:59vw;
+        display: none;
     }
     
     .S{
@@ -564,6 +623,7 @@ div.linea{
         font-size: 2vw;
         left: 62vw;
         top: 1.4vw;
+        display: none;
     }
     
     .help{
@@ -572,6 +632,7 @@ div.linea{
         height: auto;
         width: 2.5vw;
         top: 1.1vw;
+        display: none;
     }
     
     .SS{
@@ -580,36 +641,37 @@ div.linea{
         color: black;
         font-family: 'myriad pro regular';
         left: 78.5vw;
-        top: 1.15vw;
+        top: 1.15vh;
         font-size: 1.8vw;
+        display: none;
     }
     
     
     .SSS{
         position: absolute;
-        top: 1.45vw;
-        left: 91vw;
+        top: 1.45vh;
+        left: 75vw;
         height: auto;
-        width: 1.6vw;
+        width: 5vw;
     }
     
     .EG{
         position: absolute;
-        top: 1.5vw;
-        left: 93.7vw;
+        top:1.6vh;
+        left: 82vw;
         height: auto;
-        width:  1.6vw;
+        width:  4.5vw;
     }
     
     .menu {
         position: absolute;
-        top: 0.5vw;
-        left: 96vw;
+        top: 0.5vh;
+        left: 90vw;
         display: inline-block;
     }
     
     .pedrito img {
-        width: 3.5vw;
+        width: 8vw;
         height: auto;
         cursor: pointer;
     }
