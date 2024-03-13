@@ -18,7 +18,12 @@ body{
     overflow-x: hidden;
     overflow-y: hidden;
     background-color: rgb(0, 0, 0);
-    background-image: url(../images/back.png);
+}
+
+.notebugues{
+    position: absolute;
+    width: 100vw;
+    height: 100vw;
 }
 
 section.home{
@@ -37,7 +42,7 @@ section.home{
 }
 
 div.linea{
-    top: 1.6vi;
+    top: 1.7vi;
     position: absolute;
     margin: 0%;
     width: 100vw; 
@@ -238,195 +243,189 @@ div.linea{
     position: absolute;
     font-size: 1.04vw;
     font-family: 'myriad pro regular';
-    left: 5vw;
+    left: 8vw;
     top: 20vh; 
     color: white;
 
 }
 .cuadrao1{
     position: absolute;
-    left: 5vw;
+    left: 8vw;
     top: 25vh;
-    width: 10vw;
+    width: 20vw;
     height: 5vh;
     background-color: white;
     border: 2px solid rgb(104, 104, 104);
-    border-radius: 10px; 
+    border-radius: 15px; 
 }
 
 .clase2{
     position: absolute;
     font-size: 1.04vw;
     font-family: 'myriad pro regular';
-    left: 20vw;
-    top: 20vh; 
+    left: 8vw;
+    top: 35vh; 
     color: white;
-
 }
 
 .cuadrao2{
     position: absolute;
-    left: 20vw;
-    top: 25vh;
-    width: 10vw;
+    left: 8vw;
+    top: 40vh;
+    width: 20vw;
     height: 5vh;
     background-color: white;
     border: 2px solid rgb(104, 104, 104);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .clase3{
     position: absolute;
     font-size: 1.04vw;
     font-family: 'myriad pro regular';
-    left: 35vw;
-    top: 20vh; 
+    left: 8vw;
+    top: 50vh; 
     color: white;
 
 }
 
 .cuadrao3{
     position: absolute;
-    left: 35vw;
-    top: 25vh;
-    width: 10vw;
+    left: 8vw;
+    top: 55vh;
+    width: 20vw;
     height: 5vh;
     background-color: white;
     border: 2px solid rgb(104, 104, 104);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .clase4{
     position: absolute;
     font-size: 1.04vw;
     font-family: 'myriad pro regular';
-    left: 50vw;
+    left: 42vw;
     top: 20vh; 
     color: white;
-
 }
 
 .cuadrao4{
     position: absolute;
-    left: 50vw;
+    left: 42vw;
     top: 25vh;
-    width: 10vw;
+    width: 20vw;
     height: 5vh;
     background-color: white;
     border: 2px solid rgb(104, 104, 104);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .clase5{
     position: absolute;
     font-size: 1.04vw;
     font-family: 'myriad pro regular';
-    left: 65vw;
-    top: 20vh; 
+    left: 42vw;
+    top: 35vh; 
     color: white;
-
 }
 
 .cuadrao5{
     position: absolute;
-    left: 65vw;
-    top: 25vh;
-    width: 10vw;
+    left: 42vw;
+    top: 40vh;
+    width: 20vw;
     height: 5vh;
     background-color: white;
     border: 2px solid rgb(104, 104, 104);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .clase6{
     position: absolute;
     font-size: 1.04vw;
     font-family: 'myriad pro regular';
-    left: 80vw;
-    top: 20vh; 
+    left: 42vw;
+    top: 50vh; 
     color: white;
-
 }
 
 .cuadrao6{
     position: absolute;
-    left: 80vw;
-    top: 25vh;
-    width: 10vw;
+    left: 42vw;
+    top: 55vh;
+    width: 20vw;
     height: 5vh;
     background-color: white;
     border: 2px solid rgb(104, 104, 104);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .clase7{
     position: absolute;
     font-size: 1.04vw;
     font-family: 'myriad pro regular';
-    left: 5vw;
-    top: 50vh; 
+    left: 73vw;
+    top: 20vh; 
     color: white;
-
 }
 
 .cuadrao7{
     position: absolute;
-    left: 5vw;
-    top: 55vh;
-    width: 10vw;
+    left: 73vw;
+    top: 25vh;
+    width: 20vw;
     height: 5vh;
     background-color: white;
     border: 2px solid rgb(104, 104, 104);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .clase8{
     position: absolute;
     font-size: 1.04vw;
     font-family: 'myriad pro regular';
-    left: 20vw;
-    top: 50vh; 
+    left: 73vw;
+    top: 35vh; 
     color: white;
-
 }
 
 .cuadrao8{
     position: absolute;
-    left: 20vw;
-    top: 55vh;
-    width: 10vw;
+    left: 73vw;
+    top: 40vh;
+    width: 20vw;
     height: 5vh;
     background-color: white;
     border: 2px solid rgb(104, 104, 104);
-    border-radius: 10px;
+    border-radius: 15px;
+
 }
 
 .clase9{
     position: absolute;
     font-size: 1.04vw;
     font-family: 'myriad pro regular';
-    left: 35vw;
+    left: 73vw;
     top: 50vh; 
     color: white;
-
 }
 
 .cuadrao9{
     position: absolute;
-    left: 35vw;
+    left: 73vw;
     top: 55vh;
-    width: 10vw;
+    width: 20vw;
     height: 5vh;
     background-color: white;
     border: 2px solid rgb(104, 104, 104);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .boton{
     position: absolute;
     display: inline-block;
     text-align: center;
-    left: 45.5vw;
+    left: 45vw;
     top: 72vh;
     width: 10.15vw;
     height: 2.39vw;
@@ -437,7 +436,450 @@ div.linea{
     border: none;
     border-radius: 10px;
     cursor: pointer;
-    line-height: 2.39vw;
+    line-height: 2.6vw;
     font-size: 1.04vw;
 }
 
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 896px) 
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: portrait)
+{   
+    body{
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+    .notebugues{
+        position: absolute;
+        width: auto;
+        height: 100vh;
+        left:-60vw;
+    }  
+    section.home{
+        position: relative;
+        margin: 0;
+        width: 100vw;
+        height: 10vh;
+    }
+    .cuadrito {
+        position: absolute;    
+        width: 100vw; 
+        height: 5vi; 
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: white;
+        
+        
+    }
+    div.linea{
+        top: 2.7vi;
+        position: absolute;
+        margin: 0%;
+        width: 100vw; 
+        border: 1px solid gray;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        transform: translateY(2.08vw);
+    }
+    .anadir{
+        position: absolute;
+        top: 1.23vw;
+        left: 5vw;
+        height: auto;
+        width: 2.5vw;
+    }
+    
+    .XS {
+        position: absolute;
+        text-decoration: none;
+        color: black;
+        font-family: 'myriad pro regular';
+        font-size: 1.7vw;
+        top: 1.8vw;
+        left: 8vw;
+    }
+    
+    .reload {
+        position: absolute;
+        top: 1.3vw;
+        left: 18vw;
+        height: auto;
+        width: 2.3vw;
+        
+    }
+    
+    .XM{
+        position: absolute;
+        text-decoration: none;
+        color: black;
+        font-family: 'myriad pro regular';
+        font-size: 1.8vw;
+        top: 1.45vw;
+        left: 21vw;
+    }
+    
+    .delete{
+        position: absolute;
+        top: 1.2vw;
+        left: 33vw;
+        width: 1.8vw;
+        height: auto;
+    }
+    
+    .XL{
+        position: absolute;
+        text-decoration: none;
+        color: black;
+        font-family: 'myriad pro regular';
+        font-size: 1.8vw;
+        top: 1.3vw;
+        left: 35.5vw;
+    }
+    
+    .icono{
+        position: absolute;
+        left: 49vw;
+        top: 1.3vw;
+        height: 2vw;
+    }
+    
+    .report{
+        position: absolute;
+        height: 2.5vw;
+        top: 1vw;
+        left:59vw;
+    }
+    
+    .S{
+        position: absolute;
+        text-decoration: none;
+        color: black;
+        font-family: 'myriad pro regular';
+        font-size: 2vw;
+        left: 62vw;
+        top: 1.4vw;
+    }
+    
+    .help{
+        position: absolute;
+        left: 75vw;
+        height: auto;
+        width: 2.5vw;
+        top: 1.1vw;
+    }
+    
+    .SS{
+        position: absolute;
+        text-decoration: none;
+        color: black;
+        font-family: 'myriad pro regular';
+        left: 78.5vw;
+        top: 1.15vw;
+        font-size: 1.8vw;
+    }
+    
+    
+    .SSS{
+        position: absolute;
+        top: 1.45vw;
+        left: 91vw;
+        height: auto;
+        width: 1.6vw;
+    }
+    
+    .EG{
+        position: absolute;
+        top: 1.5vw;
+        left: 93.7vw;
+        height: auto;
+        width:  1.6vw;
+    }
+    
+    .menu {
+        position: absolute;
+        top: 0.5vw;
+        left: 96vw;
+        display: inline-block;
+    }
+    
+    .pedrito img {
+        width: 3.5vw;
+        height: auto;
+        cursor: pointer;
+    }
+    
+    .toggle {
+        display: none;
+    }
+    
+    .menu-content {
+        display: none;
+        position: absolute;
+        top: 100%;
+        right: 0;
+        background-color: #fff;
+        padding: 0.5rem;
+        border: 1px solid #ccc;
+        z-index: 1;
+        font-size:2.5vw;
+        white-space: nowrap;
+    }
+    
+    .toggle:checked + .menu-content {
+        display: block;
+    }
+    
+    .menu-content a {
+        display: block;
+        text-decoration: none;
+        font-family: 'myriad pro light';
+        color: #000;
+        padding: 0.5vi 1vi;
+    }
+    
+    .menu-content a:hover {
+        background-color: #f2f2f2;
+    }
+    
+    .formula{
+        position: relative;
+        margin: 0;
+        left: 26vw;
+        width:48vw;
+        height: 82vh;
+        border-radius: 2vw;
+    }
+    
+    .txt1{
+        position: absolute;
+        font-family: 'myriad pro regular';
+        font-size: 3.08vw;
+        top: -6vw;
+        left: 17vw;
+        color: white;
+    }
+    
+    .txt2{
+        position: absolute;
+        font-family: 'myriad pro light';
+        text-align: center;
+        font-size:3.25vw;
+        top: 3.5vw;
+        left: 2vw;
+        color: white;
+    
+    }
+    
+    .clase1{
+        position: absolute;
+        font-size: 3.04vw;
+        font-family: 'myriad pro regular';
+        left: -18vw;
+        top: 20vh; 
+        color: white;
+    
+    }
+    .cuadrao1{
+        position: absolute;
+        left: -18vw;
+        top: 25vh;
+        width: 20vw;
+        height: 2vh;
+        background-color: white;
+        border: 2px solid rgb(104, 104, 104);
+        border-radius: 10px; 
+    }
+    
+    .clase2{
+        position: absolute;
+        font-size: 3.04vw;
+        font-family: 'myriad pro regular';
+        left: 13vw;
+        top: 20vh; 
+        color: white;
+    
+    }
+    
+    .cuadrao2{
+        position: absolute;
+        left: 13vw;
+        top: 25vh;
+        width: 20vw;
+        height: 2vh;
+        background-color: white;
+        border: 2px solid rgb(104, 104, 104);
+        border-radius: 10px;
+    }
+    
+    .clase3{
+        position: absolute;
+        font-size: 3.04vw;
+        font-family: 'myriad pro regular';
+        left: 45vw;
+        top: 20vh; 
+        color: white;
+    
+    }
+    
+    .cuadrao3{
+        position: absolute;
+        left: 45vw;
+        top: 25vh;
+        width: 20vw;
+        height: 2vh;
+        background-color: white;
+        border: 2px solid rgb(104, 104, 104);
+        border-radius: 10px;
+    }
+    
+    .clase4{
+        position: absolute;
+        font-size: 3.04vw;
+        font-family: 'myriad pro regular';
+        left: -18vw;
+        top: 35vh; 
+        color: white;
+    
+    }
+    
+    .cuadrao4{
+        position: absolute;
+        left: -18vw;
+        top: 40vh;
+        width: 20vw;
+        height: 2vh;
+        background-color: white;
+        border: 2px solid rgb(104, 104, 104);
+        border-radius: 10px;
+    }
+    
+    .clase5{
+        position: absolute;
+        font-size: 3.04vw;
+        font-family: 'myriad pro regular';
+        left: 10vw;
+        top: 35vh; 
+        color: white;
+    
+    }
+    
+    .cuadrao5{
+        position: absolute;
+        left: 10vw;
+        top: 40vh;
+        width: 28vw;
+        height: 2vh;
+        background-color: white;
+        border: 2px solid rgb(104, 104, 104);
+        border-radius: 10px;
+    }
+    
+    .clase6{
+        position: absolute;
+        font-size: 3.04vw;
+        font-family: 'myriad pro regular';
+        left: 45vw;
+        top: 35vh; 
+        color: white;
+    
+    }
+    
+    .cuadrao6{
+        position: absolute;
+        left: 45vw;
+        top: 40vh;
+        width: 20vw;
+        height: 2vh;
+        background-color: white;
+        border: 2px solid rgb(104, 104, 104);
+        border-radius: 10px;
+    }
+    
+    .clase7{
+        position: absolute;
+        font-size: 3.04vw;
+        font-family: 'myriad pro regular';
+        left: -18vw;
+        top: 50vh; 
+        color: white;
+    
+    }
+    
+    .cuadrao7{
+        position: absolute;
+        left: -18vw;
+        top: 55vh;
+        width: 20vw;
+        height: 2vh;
+        background-color: white;
+        border: 2px solid rgb(104, 104, 104);
+        border-radius: 10px;
+    }
+    
+    .clase8{
+        position: absolute;
+        font-size: 3.04vw;
+        font-family: 'myriad pro regular';
+        left: 10vw;
+        top: 50vh; 
+        color: white;
+    
+    }
+    
+    .cuadrao8{
+        position: absolute;
+        left: 10vw;
+        top: 55vh;
+        width: 28vw;
+        height: 2vh;
+        background-color: white;
+        border: 2px solid rgb(104, 104, 104);
+        border-radius: 10px;
+    }
+    
+    .clase9{
+        position: absolute;
+        font-size: 3.04vw;
+        font-family: 'myriad pro regular';
+        left: 45vw;
+        top: 50vh; 
+        color: white;
+    
+    }
+    
+    .cuadrao9{
+        position: absolute;
+        left: 45vw;
+        top: 55vh;
+        width: 20vw;
+        height: 2vh;
+        background-color: white;
+        border: 2px solid rgb(104, 104, 104);
+        border-radius: 10px;
+    }
+    
+    .boton{
+        position: absolute;
+        display: inline-block;
+        text-align: center;
+        left: 15vw;
+        top: 70vh;
+        width: 20.15vw;
+        height: 5.39vw;
+        font-family: 'myriad pro light';
+        background-color: #fc6d2d;
+        color: white;
+        text-decoration: none;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+        line-height: 5.6vw;
+        font-size: 4.04vw;
+    }
+  }

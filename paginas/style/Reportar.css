@@ -18,7 +18,12 @@ body{
     overflow-x: hidden;
     overflow-y: hidden;
     background-color: black;
-    background-image: url(../images/back.png);
+}
+
+.notebugues{
+    position: absolute;
+    width: 100vw;
+    height: 100vw;
 }
 
 section.home{
@@ -39,7 +44,7 @@ section.home{
     
 }
 div.linea{
-    top: 1.6vi;
+    top: 1.7vi;
     position: absolute;
     margin: 0%;
     width: 100vw; 
@@ -288,7 +293,7 @@ div.linea{
     border: none;
     border-radius: 10px;
     cursor: pointer;
-    line-height: 2.39vw;
+    line-height: 2.6vw;
     font-size: 1.04vw;
 }
 
@@ -308,7 +313,15 @@ div.linea{
         width: 100%;
         overflow-x: hidden;
         overflow-y: hidden;
-    }    
+    }
+
+    .notebugues{
+        position: absolute;
+        width: auto;
+        height: 100vh;
+        left:-60vw;
+    }
+    
     section.home{
         position: relative;
         margin: 0;
@@ -501,8 +514,8 @@ div.linea{
         position: relative;
         margin: 0;
         top: 10vh;
-        left: 26vw;
-        width: 48vw;
+        left: 10vw;
+        width: 80vw;
         height: 50vh;
         border-radius: 2vw;
         background: linear-gradient(to right, white, #E5E5E5);
@@ -512,27 +525,27 @@ div.linea{
         font-family: 'myriad pro regular';
         font-size: 5.08vw;
         top: 1vh;
-        left: 8.5vw;
+        left: 24vw;
     }
     .txt2{
         position: absolute;
         font-family: 'myriad pro regular';
         font-size: 3vw;
         top: 6.5vh;
-        left: 8.5vw;
+        left: 23.5vw;
     }
     .txt3{
         position: absolute;
         font-family: 'myriad pro regular';
         font-size: 3vw;
         top: 12vh;
-        left: 8vw;
+        left: 12vw;
     }
     .cuadrito1{
         position: absolute;
         left: 8vw;
         top: 17vh;
-        width: 30vw;
+        width: 60vw;
         height: 6vh;
         background-color: white;
         border: 2px solid black;
@@ -541,15 +554,15 @@ div.linea{
     .txt4{
         position: absolute;
         font-family: 'myriad pro regular';
-        font-size: 2.5vw;
+        font-size: 3vw;
         top: 28vh;
-        left: 8vw; 
+        left: 12vw; 
     }
     .cuadrito2{
         position: absolute;
         left: 8vw;
         top: 32vh;
-        width: 30vw;
+        width: 60vw;
         height: 8vh;
         background-color: white;
         border: 2px solid black;
@@ -559,10 +572,10 @@ div.linea{
         position: absolute;
         display: inline-block;
         text-align: center;
-        left: 17vw;
+        left: 31vw;
         top: 45vh;
-        width: 14vw;
-        height: 4vw;
+        width: 16vw;
+        height: 5vw;
         font-family: 'myriad pro light';
         background-color: white;
         color: black;
@@ -570,8 +583,8 @@ div.linea{
         border: none;
         border-radius: 10px;
         cursor: pointer;
-        line-height: 3.6vw;
-        font-size: 2.04vw;
+        line-height: 5vw;
+        font-size: 3.04vw;
     }
     
     .boton:hover {
