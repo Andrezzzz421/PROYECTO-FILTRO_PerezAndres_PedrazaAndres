@@ -27,7 +27,7 @@ body{
     position: absolute;
     top: 23vi;
     left: 45vi;
-    animation: logo 2s;
+    animation: logo 3s;
     opacity: 0;
 }
 @keyframes logo{
@@ -49,7 +49,7 @@ body{
     top: 13vi;
     left: 29vi;
     animation: login 4s forwards;
-    animation-delay: 2.5s;
+    animation-delay: 3.5s;
     opacity: 0;
     border-radius: 67px;
 }
@@ -138,3 +138,7 @@ h2{
     border-radius: 1.9em;
     cursor: pointer;
 }
+@media only screen 
+and (device-width: 390px) 
+and (device-height: 844px) 
+and (-webkit-device-pixel-ratio: 3) { }
