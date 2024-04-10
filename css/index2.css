@@ -30,7 +30,7 @@ body{
     height: 23vi;
     top: 17vi;
     left: 29vi;
-    animation: login 2s;
+    animation: login 3s;
     opacity: 0;
     border-radius: 67px;
 }
@@ -55,8 +55,8 @@ body{
     position: absolute;
     top: 23vi;
     left: 45vi;
-    animation: logo 2s forwards; 
-    animation-delay: 2s;
+    animation: logo 3s forwards; 
+    animation-delay: 3s;
     opacity: 0;
 }
 @keyframes logo{
@@ -99,3 +99,7 @@ body{
     font-size: 1em;
     text-align: center;
 }
+@media only screen 
+and (device-width: 390px) 
+and (device-height: 844px) 
+and (-webkit-device-pixel-ratio: 3) { }

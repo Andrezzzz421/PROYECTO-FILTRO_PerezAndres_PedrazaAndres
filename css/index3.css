@@ -13,8 +13,8 @@
 body{
     margin: 0;
     position: absolute;
-    width: 100vw; 
-    height: 100vh;
+    width: 100vi; 
+    height: 100vi;
     overflow-x: hidden;
     overflow-y: hidden;
     display: flex;
@@ -219,7 +219,7 @@ div.linea{
     font-family: 'myriad pro regular';
     font-size: 2.5vi;
     text-align: center;
-    top: 2vi;
+    top: 3vi;
     left: -9vi;
 }
 
@@ -228,8 +228,8 @@ div.linea{
     font-family: 'myriad pro light';
     font-size:1.5vi;
     text-align: center;
-    top: 3.5vw;
-    left: 26vw;
+    top: 9vi;
+    left: -22vi;
 }
 
 .clase1{
@@ -237,26 +237,26 @@ div.linea{
     font-size: 1.5em;
     font-family: 'myriad pro regular';
     left: -45.5vi;
-    top: 16vi; 
+    top: 14vi; 
 }
 .cuadrao1{
     position: absolute;
     left: -47vi;
-    top: 20vi;
-    width: 90vi;
+    top: 18vi;
+    width: 95.5vi;
     height: 3.8vi;
     border: 1px solid black;
-    border-radius: 1em;
+    border-radius: 1.5vi;
 }
 .Fila1_1{
     position: absolute;
-    left: 1em;
+    left: 1vi;
     top: 1.2vi;
     font-size: 1.5em;
 }   
 .Fila1_2{
     position: absolute;
-    left: 12em;
+    left: 15vi;
     top: 1.2vi;
     font-size: 1.5em;
 }
@@ -268,26 +268,26 @@ div.linea{
 }
 .Fila1_4{
     position: absolute;
-    left: 30em;
-    top: 1em;
+    left: 38vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila1_5{
     position: absolute;
-    left: 35em;
-    top: 1em;
+    left: 51vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila1_6{
     position: absolute;
-    left: 42em;
-    top: 1em;
+    left: 62vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila1_7{
     position: absolute;
-    left: 50em;
-    top: 1em;
+    left: 72vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila1_8{
@@ -298,8 +298,8 @@ div.linea{
 }
 .Fila1_9{
     position: absolute;
-    left: 60em;
-    top: 1em;
+    left: 89vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .clase2{
@@ -307,129 +307,129 @@ div.linea{
     font-size: 1.5em;
     font-family: 'myriad pro regular';
     left: -31vi;
-    top: 16vi; 
+    top: 14vi; 
 }
 
 .cuadrao2{
     position: absolute;
-    left: 8em;
-    top: 30em;
-    width: 116em;
-    height: 3.8em;
+    left: -47vi;
+    top: 23vi;
+    width: 95.5vi;
+    height: 3.8vi;
     border: 1px solid black;
-    border-radius: 1em;
+    border-radius: 1.5vi;
 }
 .Fila2_1{
     position: absolute;
-    left: 1em;
-    top: 1.5em;
+    left: 1vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }   
 .Fila2_2{
     position: absolute;
-    left: 12em;
-    top: 1.5em;
+    left: 15vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila2_3{
     position: absolute;
-    left: 25em;
-    top: 1.5em;
+    left: 30vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila2_4{
     position: absolute;
-    left: 30em;
-    top: 1.5em;
+    left: 38vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila2_5{
     position: absolute;
-    left: 35em;
-    top: 1.5em;
+    left: 51vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila2_6{
     position: absolute;
-    left: 42em;
-    top: 1.5em;
+    left: 62vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila2_7{
     position: absolute;
-    left: 50em;
-    top: 1.5em;
+    left: 72vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila2_8{
     position: absolute;
     left: 55em;
-    top: 1.5em;
+    top: 1em;
     font-size: 1.5em;
 }
 .Fila2_9{
     position: absolute;
-    left: 60em;
-    top: 1.5em;
+    left: 89vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .clase3{
     position: absolute;
     font-size: 1.5em;
     font-family: 'myriad pro regular';
-    left: 30vw;
-    top: 17vh; 
+    left: -18vi;
+    top: 14vi; 
 }
 
 .cuadrao3{
     position: absolute;
-    left: 8em;
-    top: 36em;
-    width: 116em;
-    height: 3.8em;
+    left: -47vi;
+    top: 28vi;
+    width: 95.5vi;
+    height: 3.8vi;
     border: 1px solid black;
-    border-radius: 1em;
+    border-radius: 1.5vi;
 }
 .Fila3_1{
     position: absolute;
-    left: 1em;
-    top: 1em;
+    left: 1vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }   
 .Fila3_2{
     position: absolute;
-    left: 12em;
-    top: 1em;
+    left: 15vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila3_3{
     position: absolute;
-    left: 25em;
-    top: 1em;
+    left: 30vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila3_4{
     position: absolute;
-    left: 30em;
-    top: 1em;
+    left: 38vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila3_5{
     position: absolute;
-    left: 35em;
-    top: 1em;
+    left: 51vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila3_6{
     position: absolute;
-    left: 42em;
-    top: 1em;
+    left: 62vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila3_7{
     position: absolute;
-    left: 50em;
-    top: 1em;
+    left: 72vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila3_8{
@@ -440,67 +440,67 @@ div.linea{
 }
 .Fila3_9{
     position: absolute;
-    left: 60em;
-    top: 1em;
+    left: 89vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .clase4{
     position: absolute;
     font-size: 1.5em;
     font-family: 'myriad pro regular';
-    left: 39vw;
-    top: 17vh; 
+    left: -10vi;
+    top: 14vi; 
 }
 
 .cuadrao4{
     position: absolute;
-    left: 8em;
-    top: 42em;
-    width: 116em;
-    height: 3.8em;
+    left: -47vi;
+    top: 33vi;
+    width: 95.5vi;
+    height: 3.8vi;
     border: 1px solid black;
-    border-radius: 1em;
+    border-radius: 1.5vi;
 }
 .Fila4_1{
     position: absolute;
-    left: 1em;
-    top: 1em;
+    left: 1vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }   
 .Fila4_2{
     position: absolute;
-    left: 12em;
-    top: 1em;
+    left: 15vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila4_3{
     position: absolute;
-    left: 25em;
-    top: 1em;
+    left: 30vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila4_4{
     position: absolute;
-    left: 30em;
-    top: 1em;
+    left: 38vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila4_5{
     position: absolute;
-    left: 35em;
-    top: 1em;
+    left: 51vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila4_6{
     position: absolute;
-    left: 42em;
-    top: 1em;
+    left: 62vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila4_7{
     position: absolute;
-    left: 50em;
-    top: 1em;
+    left: 72vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila4_8{
@@ -511,67 +511,67 @@ div.linea{
 }
 .Fila4_9{
     position: absolute;
-    left: 60em;
-    top: 1em;
+    left: 89vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .clase5{
     position: absolute;
     font-size: 1.5em;
     font-family: 'myriad pro regular';
-    left: 51vw;
-    top: 17vh; 
+    left: 1vi;
+    top: 14vi; 
 }
 
 .cuadrao5{
     position: absolute;
-    left: 8em;
-    top: 48em;
-    width: 116em;
-    height: 3.8em;
+    left: -47vi;
+    top: 38vi;
+    width: 95.5vi;
+    height: 3.8vi;
     border: 1px solid black;
-    border-radius: 1em;
+    border-radius: 1.5vi;
 }
 .Fila5_1{
     position: absolute;
-    left: 1em;
-    top: 1em;
+    left: 1vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }   
 .Fila5_2{
     position: absolute;
-    left: 12em;
-    top: 1em;
+    left: 15vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila5_3{
     position: absolute;
-    left: 25em;
-    top: 1em;
+    left: 30vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila5_4{
     position: absolute;
-    left: 30em;
-    top: 1em;
+    left: 38vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila5_5{
     position: absolute;
-    left: 35em;
-    top: 1em;
+    left: 51vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila5_6{
     position: absolute;
-    left: 42em;
-    top: 1em;
+    left: 62vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila5_7{
     position: absolute;
-    left: 50em;
-    top: 1em;
+    left: 72vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila5_8{
@@ -582,67 +582,67 @@ div.linea{
 }
 .Fila5_9{
     position: absolute;
-    left: 60em;
-    top: 1em;
+    left: 89vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .clase6{
     position: absolute;
     font-size: 1.5em;
     font-family: 'myriad pro regular';
-    left: 67vw;
-    top: 17vh; 
+    left: 15vi;
+    top: 14vi; 
 }
 
 .cuadrao6{
     position: absolute;
-    left: 8em;
-    top: 54em;
-    width: 116em;
-    height: 3.8em;
+    left: -47vi;
+    top: 43vi;
+    width: 95.5vi;
+    height: 3.8vi;
     border: 1px solid black;
-    border-radius: 1em;
+    border-radius: 1.5vi;
 }
 .Fila6_1{
     position: absolute;
-    left: 1em;
-    top: 1em;
+    left: 1vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }   
 .Fila6_2{
     position: absolute;
-    left: 12em;
-    top: 1em;
+    left: 15vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila6_3{
     position: absolute;
-    left: 25em;
-    top: 1em;
+    left: 30vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila6_4{
     position: absolute;
-    left: 30em;
-    top: 1em;
+    left: 38vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila6_5{
     position: absolute;
-    left: 35em;
-    top: 1em;
+    left: 51vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila6_6{
     position: absolute;
-    left: 42em;
-    top: 1em;
+    left: 62vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila6_7{
     position: absolute;
-    left: 50em;
-    top: 1em;
+    left: 72vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila6_8{
@@ -653,39 +653,39 @@ div.linea{
 }
 .Fila6_9{
     position: absolute;
-    left: 60em;
-    top: 1em;
-    font-size: 1.5em; 
+    left: 89vi;
+    top: 1.2vi;
+    font-size: 1.5em;
 }
 .clase7{
     position: absolute;
     font-size: 1.5em;
     font-family: 'myriad pro regular';
-    left: 75vw;
-    top: 17vh; 
+    left: 23vi;
+    top: 14vi; 
 }
 .clase8{
     position: absolute;
     font-size: 1.5em;
     font-family: 'myriad pro regular';
-    left: 85vw;
-    top: 17vh; 
+    left: 32vi;
+    top: 14vi; 
 }
 .clase9{
     position: absolute;
     font-size: 1.5em;
     font-family: 'myriad pro regular';
-    left: 95vw;
-    top: 17vh; 
+    left: 43vi;
+    top: 14vi; 
 }
 .boton{
     position: absolute;
     display: inline-block;
     text-align: center;
-    left: 47vw;
-    top: 90vh;
-    width: 10.15vw;
-    height: 2.39vw;
+    left: -5vi;
+    top: 50vi;
+    width: 10.15vi;
+    height: 2.39vi;
     font-family: 'myriad pro light';
     background-color: #fc6d2d;
     color: white;
@@ -693,6 +693,526 @@ div.linea{
     border: none;   
     border-radius: 10px;
     cursor: pointer;
-    line-height: 2.39vw;
-    font-size: 1.04vw;
+    line-height: 2.39vi;
+    font-size: 1.5em;
 }
+/*1*/
+@property --progress-value {
+    syntax: '<integer>';
+    inherits: false;
+    initial-value: 0;
+  }
+
+  @keyframes primer-progress {
+    to { --progress-value: 31;}
+  }
+
+  .progress-bar {
+    width: 3vi;
+    height: 3vi;
+    margin-left: -2vi;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .progress-bar::before {
+    counter-reset: percentage var(--progress-value);
+    content: counter(percentage) '%';
+  }
+
+  .primero {
+    background: 
+        radial-gradient(closest-side, white 79%, transparent 80% 100%),
+        conic-gradient(rgb(241, 37, 37) calc(var(--progress-value) * 1%), rgb(255, 255, 255) 0);
+        animation: primer-progress 2s 1 forwards;
+        font-family: 'Myriad pro, regular';
+        font-size: 0.8vi;
+        position: absolute;
+        top: 18.5vi;
+        left: 85.5vi;
+    }
+
+    .primero::before {
+        animation: primer-progress 2s 1 forwards;
+    }
+
+    progress {
+        visibility: hidden;
+        width: 0;
+        height: 0;
+    }
+/*2*/
+@property --progress-value {
+    syntax: '<integer>';
+    inherits: false;
+    initial-value: 0;
+    }
+    
+    @keyframes secun-progress {
+        to { --progress-value: 25;}
+    }
+    
+    .progress-bar {
+    width: 3vi;
+    height: 3vi;
+    margin-left: -2vi;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .progress-bar::before {
+    counter-reset: percentage var(--progress-value);
+    content: counter(percentage) '%';
+    }
+    
+    .segundo {
+    background: 
+        radial-gradient(closest-side, white 79%, transparent 80% 100%),
+        conic-gradient(rgb(241, 37, 37) calc(var(--progress-value) * 1%), rgb(255, 255, 255) 0);
+        animation: secun-progress 2s 1 forwards;
+        font-family: 'Myriad pro, regular';
+        font-size: 0.8vi;
+        position: absolute;
+        top: 23.5vi;
+        left: 85.5vi;
+    }
+    
+    .segundo::before {
+        animation: secun-progress 2s 1 forwards;
+    }
+    
+    progress {
+        visibility: hidden;
+        width: 0;
+        height: 0;
+    }
+/*3*/
+@property --progress-value {
+    syntax: '<integer>';
+    inherits: false;
+    initial-value: 0;
+    }
+    
+    @keyframes terce-progress {
+        to { --progress-value: 80;}
+    }
+    
+    .progress-bar {
+    width: 3vi;
+    height: 3vi;
+    margin-left: -2vi;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .progress-bar::before {
+    counter-reset: percentage var(--progress-value);
+    content: counter(percentage) '%';
+    }
+    
+    .tercero {
+    background: 
+        radial-gradient(closest-side, white 79%, transparent 80% 100%),
+        conic-gradient(rgb(241, 37, 37) calc(var(--progress-value) * 1%), rgb(255, 255, 255) 0);
+        animation: terce-progress 2s 1 forwards;
+        font-family: 'Myriad pro, regular';
+        font-size: 0.8vi;
+        position: absolute;
+        top: 28.5vi;
+        left: 85.5vi;
+    }
+    
+    .tercero::before {
+        animation: terce-progress 2s 1 forwards;
+    }
+    
+    progress {
+        visibility: hidden;
+        width: 0;
+        height: 0;
+    }
+/*4*/
+@property --progress-value {
+    syntax: '<integer>';
+    inherits: false;
+    initial-value: 0;
+    }
+    
+    @keyframes cuar-progress {
+        to { --progress-value: 32;}
+    }
+    
+    .progress-bar {
+    width: 3vi;
+    height: 3vi;
+    margin-left: -2vi;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .progress-bar::before {
+    counter-reset: percentage var(--progress-value);
+    content: counter(percentage) '%';
+    }
+    
+    .cuarto {
+    background: 
+        radial-gradient(closest-side, white 79%, transparent 80% 100%),
+        conic-gradient(rgb(241, 37, 37) calc(var(--progress-value) * 1%), rgb(255, 255, 255) 0);
+        animation: cuar-progress 2s 1 forwards;
+        font-family: 'Myriad pro, regular';
+        font-size: 0.8vi;
+        position: absolute;
+        top: 33.5vi;
+        left: 85.5vi;
+    }
+    
+    .cuarto::before {
+        animation: cuar-progress 2s 1 forwards;
+    }
+    
+    progress {
+        visibility: hidden;
+        width: 0;
+        height: 0;
+    }
+/*5*/
+@property --progress-value {
+    syntax: '<integer>';
+    inherits: false;
+    initial-value: 0;
+    }
+    
+    @keyframes quint-progress {
+        to { --progress-value: 95;}
+    }
+    
+    .progress-bar {
+    width: 3vi;
+    height: 3vi;
+    margin-left: -2vi;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .progress-bar::before {
+    counter-reset: percentage var(--progress-value);
+    content: counter(percentage) '%';
+    }
+    
+    .quinto {
+    background: 
+        radial-gradient(closest-side, white 79%, transparent 80% 100%),
+        conic-gradient(rgb(241, 37, 37) calc(var(--progress-value) * 1%), rgb(255, 255, 255) 0);
+        animation: quint-progress 2s 1 forwards;
+        font-family: 'Myriad pro, regular';
+        font-size: 0.8vi;
+        position: absolute;
+        top: 38.5vi;
+        left: 85.5vi;
+    }
+    
+    .quinto::before {
+        animation: quint-progress 2s 1 forwards;
+    }
+    
+    progress {
+        visibility: hidden;
+        width: 0;
+        height: 0;
+    }
+/*6*/
+@property --progress-value {
+    syntax: '<integer>';
+    inherits: false;
+    initial-value: 0;
+    }
+    
+    @keyframes sext-progress {
+        to { --progress-value: 75;}
+    }
+    
+    .progress-bar {
+    width: 3vi;
+    height: 3vi;
+    margin-left: -2vi;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .progress-bar::before {
+    counter-reset: percentage var(--progress-value);
+    content: counter(percentage) '%';
+    }
+    
+    .sexto {
+    background: 
+        radial-gradient(closest-side, white 79%, transparent 80% 100%),
+        conic-gradient(rgb(241, 37, 37) calc(var(--progress-value) * 1%), rgb(255, 255, 255) 0);
+        animation: sext-progress 2s 1 forwards;
+        font-family: 'Myriad pro, regular';
+        font-size: 0.8vi;
+        position: absolute;
+        top: 43.5vi;
+        left: 85.5vi;
+    }
+    
+    .sexto::before {
+        animation: sext-progress 2s 1 forwards;
+    }
+    
+    progress {
+        visibility: hidden;
+        width: 0;
+        height: 0;
+    }
+  @media only screen 
+  and (device-width: 390px) 
+  and (device-height: 844px) 
+  and (-webkit-device-pixel-ratio: 3) {
+    @font-face{
+        font-family: 'myriad pro light';
+        src: url(./Fuente/Myriad\ Pro\ Light.otf);
+    }
+    
+    @font-face{
+        font-family: 'myriad pro regular';
+        src: url(./Fuente/Myriad\ Pro\ Regular.ttf);
+        font-weight: bold;
+    }
+    
+    
+    body{
+        margin: 0;
+        position: absolute;
+        width: 100vi; 
+        height: 100vi;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        display: flex;
+    }
+    
+    section.home{
+        position: relative;
+        margin: 0;
+        width: 100vw;
+        height: 10vh;
+    }
+    .cuadrito {
+        position: absolute;    
+        width: 100vw; 
+        height: 3.5vi;  
+        display: flex;
+        justify-content: space-between;
+        align-items: center;  
+    }
+    
+    div.linea{
+        position: absolute;
+        margin: 0%;
+        width: 100vw; 
+        border: 2px solid gray;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        transform: translateY(2.08vw);
+    }
+    .anadir{
+        position: absolute;
+        top: 1.23vw;
+        left: 5vw;
+        height: auto;
+        width: 2vw;
+    }
+    
+    .XS {
+        position: absolute;
+        text-decoration: none;
+        color: black;
+        font-family: 'myriad pro regular';
+        font-size: 1.3vw;
+        top: 1.33vw;
+        left: 7vw;
+    }
+    
+    .reload {
+        position: absolute;
+        top: 1.3vw;
+        left: 18vw;
+        height: auto;
+        width: 1.4vw;
+        
+    }
+    
+    .XM{
+        position: absolute;
+        text-decoration: none;
+        color: black;
+        font-family: 'myriad pro regular';
+        font-size: 1.3vw;
+        top: 1.34vw;
+        left: 20vw;
+    }
+    
+    .delete{
+        position: absolute;
+        top: 1.2vw;
+        left: 33vw;
+        width: 1.2vw;
+        height: auto;
+    }
+    
+    .XL{
+        position: absolute;
+        text-decoration: none;
+        color: black;
+        font-family: 'myriad pro regular';
+        font-size: 1.3vw;
+        top: 1.4vw;
+        left: 35vw;
+    }
+    
+    .icono{
+        position: absolute;
+        left: 49vw;
+        top: 0.8vw;
+        height: 2vw;
+    }
+    
+    .report{
+        position: absolute;
+        height: 1.89vw;
+        top: 1vw;
+        left:62vw;
+    }
+    
+    .S{
+        position: absolute;
+        text-decoration: none;
+        color: black;
+        font-family: 'myriad pro regular';
+        font-size: 1.2vw;
+        left: 64vw;
+        top: 1.25vw;
+    }
+    
+    .help{
+        position: absolute;
+        left: 76vw;
+        height: auto;
+        width: 1.85vw;
+        top: 1vw;
+    }
+    
+    .SS{
+        position: absolute;
+        text-decoration: none;
+        color: black;
+        font-family: 'myriad pro regular';
+        left: 78.5vw;
+        top: 1.2vw;
+        font-size: 1.2vw;
+    }
+    
+    
+    .SSS{
+        position: absolute;
+        top: 1.45vw;
+        left: 92.23vw;
+        height: auto;
+        width: 1.09vw;
+    }
+    
+    .EG{
+        position: absolute;
+        top: 1.55vw;
+        left: 94.14vw;
+        height: auto;
+        width:  0.98vw;
+    }
+    
+    .menu {
+        position: absolute;
+        top: 0.5vw;
+        left: 96vw;
+        display: inline-block;
+    }
+    
+    .pedrito img {
+        width: 2.6vw;
+        height: auto;
+        cursor: pointer;
+    }
+    
+    .toggle {
+        display: none;
+    }
+    
+    .menu-content {
+        display: none;
+        position: absolute;
+        top: 100%;
+        right: 0;
+        background-color: #fff;
+        padding: 0.5rem;
+        border: 1px solid #ccc;
+        z-index: 1;
+        font-size:1vw;
+        white-space: nowrap;
+        
+    }
+    
+    .toggle:checked + .menu-content {
+        display: block;
+    }
+    
+    .menu-content a {
+        display: block;
+        text-decoration: none;
+        font-family: 'myriad pro light';
+        color: #000;
+        padding: 0.5rem 1rem;
+        
+    }
+    
+    .menu-content a:hover {
+        background-color: #f2f2f2;
+    }
+    
+    .formula{
+        position: relative;
+        margin: 0;
+        width: 100vw;
+        height: 50vw;
+    }
+    
+    .txt1{
+        position: absolute;
+        font-family: 'myriad pro regular';
+        font-size: 2.5vi;
+        text-align: center;
+        top: 3vi;
+        left: -9vi;
+    }
+    
+    .txt2{
+        position: absolute;
+        font-family: 'myriad pro light';
+        font-size:1.5vi;
+        text-align: center;
+        top: 9vi;
+        left: -22vi;
+    }
+   }
