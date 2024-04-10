@@ -1,0 +1,144 @@
+@font-face{
+    font-family: 'myriad pro light';
+    src: url(../fuentes/Myriad\ Pro\ Light.otf);
+}
+
+@font-face{
+    font-family: 'myriad pro regular';
+    src: url(../fuentes/Myriad\ Pro\ Regular.ttf);
+    font-weight: bold;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url(./Imagenes/Fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000;
+}
+.Logo{
+    position: absolute;
+    top: 23vi;
+    left: 45vi;
+    animation: logo 3s;
+    opacity: 0;
+}
+@keyframes logo{
+    0%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.Login{
+    position: absolute;
+    background-color: white;
+    width: 40vi;
+    height: 33vi;
+    top: 13vi;
+    left: 29vi;
+    animation: login 4s forwards;
+    animation-delay: 3.5s;
+    opacity: 0;
+    border-radius: 67px;
+}
+@keyframes login{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.Imagen{
+    position: absolute;
+    top: 1vi;
+    left: 17.5vi;
+    z-index: 1;  
+}
+h1{
+    position: absolute;
+    top: 6.5vi;
+    left: 10vi;
+    width: 20vi;
+    height: 1vi;
+    text-align: center;
+    font-size: 2.5em;
+}
+h2{
+    position: absolute;
+    top: 12vi;
+    left: 5vi;
+    width: 30vi;
+    height: 5vi;
+    font-size: 1.25em;
+    text-align: center;
+    font-style: none;
+}
+.final{
+    position: absolute;
+    top: 29vi;
+    left: 6.5vi;
+    width: 30vi;
+    height: 5vi;
+    font-size: 1em;
+}
+.Usuario{
+    position: absolute;
+    top: 14vi;
+    left: 5vi;
+    opacity: 1;
+    font-size: 1.6em;
+}
+.hola{
+    position: absolute;
+    top: 15.7vi;
+    left: 5vi;
+    width: 30vi;
+    height: 2.5vi;
+    border-radius: 20px;
+    border-color: #000;
+}
+.Contraseña{
+    position: absolute;
+    top: 18.5vi;
+    left: 5vi;
+    opacity: 1;
+    font-size: 1.6em;
+}
+.chao{
+    position: absolute;
+    top: 20.2vi;
+    left: 5vi;
+    width: 30vi;
+    height: 2.5vi;
+    border-radius: 20px;
+    border-color: #000;
+}
+.Boton{
+    position: absolute;
+    background-color: #ff7221;
+    font-size: 1.6em;
+    top: 24vi;
+    left: 12.5vi;
+    width: 15vi;
+    height: 3vi;
+    opacity: 1;
+    border-radius: 1.9em;
+    cursor: pointer;
+}
+@media only screen 
+and (device-width: 390px) 
+and (device-height: 844px) 
+and (-webkit-device-pixel-ratio: 3) { }
