@@ -740,18 +740,19 @@ div.linea{
     
     .clase1{
         position: absolute;
-        font-size: 3.04vw;
+        font-size: 4.04vw;
         font-family: 'myriad pro regular';
-        left: -18vw;
-        top: 20vh; 
+        text-align: center;
+        left: -16vw;
+        top: 10vh; 
         color: white;
     
     }
     .cuadrao1{
         position: absolute;
-        left: -18vw;
-        top: 25vh;
-        width: 20vw;
+        left: -16vw;
+        top: 15vh;
+        width: 80vw;
         height: 2vh;
         background-color: white;
         border: 2px solid rgb(104, 104, 104);
@@ -760,19 +761,19 @@ div.linea{
     
     .clase2{
         position: absolute;
-        font-size: 3.04vw;
+        font-size: 4.04vw;
         font-family: 'myriad pro regular';
-        left: 13vw;
-        top: 20vh; 
+        left: -16vw;
+        top: 18vh; 
         color: white;
-    
+
     }
     
     .cuadrao2{
         position: absolute;
-        left: 13vw;
-        top: 25vh;
-        width: 20vw;
+        left: -16vw;
+        top: 23vh;
+        width: 80vw;
         height: 2vh;
         background-color: white;
         border: 2px solid rgb(104, 104, 104);
@@ -781,19 +782,18 @@ div.linea{
     
     .clase3{
         position: absolute;
-        font-size: 3.04vw;
+        font-size: 4.04vw;
         font-family: 'myriad pro regular';
-        left: 45vw;
-        top: 20vh; 
+        left: -16vw;
+        top: 26vh; 
         color: white;
-    
     }
     
     .cuadrao3{
         position: absolute;
-        left: 45vw;
-        top: 25vh;
-        width: 20vw;
+        left: -16vw;
+        top: 31vh;
+        width: 80vw;
         height: 2vh;
         background-color: white;
         border: 2px solid rgb(104, 104, 104);
@@ -802,19 +802,18 @@ div.linea{
     
     .clase4{
         position: absolute;
-        font-size: 3.04vw;
+        font-size: 4.04vw;
         font-family: 'myriad pro regular';
-        left: -18vw;
-        top: 35vh; 
+        left: -16vw;
+        top: 34vh; 
         color: white;
-    
     }
     
     .cuadrao4{
         position: absolute;
-        left: -18vw;
-        top: 40vh;
-        width: 20vw;
+        left: -16vw;
+        top: 39vh;
+        width: 80vw;
         height: 2vh;
         background-color: white;
         border: 2px solid rgb(104, 104, 104);
@@ -823,19 +822,18 @@ div.linea{
     
     .clase5{
         position: absolute;
-        font-size: 3.04vw;
+        font-size: 4.04vw;
         font-family: 'myriad pro regular';
-        left: 10vw;
-        top: 35vh; 
+        left: -16vw;
+        top: 42vh; 
         color: white;
-    
     }
     
     .cuadrao5{
         position: absolute;
-        left: 10vw;
-        top: 40vh;
-        width: 28vw;
+        left: -16vw;
+        top: 47vh;
+        width: 80vw;
         height: 2vh;
         background-color: white;
         border: 2px solid rgb(104, 104, 104);
@@ -844,19 +842,18 @@ div.linea{
     
     .clase6{
         position: absolute;
-        font-size: 3.04vw;
+        font-size: 4.04vw;
         font-family: 'myriad pro regular';
-        left: 45vw;
-        top: 35vh; 
+        left: -16vw;
+        top: 50vh; 
         color: white;
-    
     }
     
     .cuadrao6{
         position: absolute;
-        left: 45vw;
-        top: 40vh;
-        width: 20vw;
+        left: -16vw;
+        top: 55vh;
+        width: 80vw;
         height: 2vh;
         background-color: white;
         border: 2px solid rgb(104, 104, 104);
@@ -865,19 +862,18 @@ div.linea{
     
     .clase7{
         position: absolute;
-        font-size: 3.04vw;
+        font-size: 4.04vw;
         font-family: 'myriad pro regular';
-        left: -18vw;
-        top: 50vh; 
+        left: -16vw;
+        top: 58vh; 
         color: white;
-    
     }
     
     .cuadrao7{
         position: absolute;
-        left: -18vw;
-        top: 55vh;
-        width: 20vw;
+        left: -16vw;
+        top: 63vh;
+        width: 80vw;
         height: 2vh;
         background-color: white;
         border: 2px solid rgb(104, 104, 104);
@@ -886,19 +882,18 @@ div.linea{
     
     .clase8{
         position: absolute;
-        font-size: 3.04vw;
+        font-size: 4.04vw;
         font-family: 'myriad pro regular';
-        left: 10vw;
-        top: 50vh; 
+        left: -16vw;
+        top: 66vh; 
         color: white;
-    
     }
     
     .cuadrao8{
         position: absolute;
-        left: 10vw;
-        top: 55vh;
-        width: 28vw;
+        left: -16vw;
+        top: 71vh;
+        width: 80vw;
         height: 2vh;
         background-color: white;
         border: 2px solid rgb(104, 104, 104);
@@ -907,19 +902,19 @@ div.linea{
     
     .clase9{
         position: absolute;
-        font-size: 3.04vw;
+        font-size: 4.04vw;
         font-family: 'myriad pro regular';
-        left: 45vw;
-        top: 50vh; 
+        left: -16vw;
+        top:75vh; 
         color: white;
-    
+
     }
     
     .cuadrao9{
         position: absolute;
-        left: 45vw;
-        top: 55vh;
-        width: 20vw;
+        left: -16vw;
+        top: 80vh;
+        width: 80vw;
         height: 2vh;
         background-color: white;
         border: 2px solid rgb(104, 104, 104);
@@ -930,8 +925,8 @@ div.linea{
         position: absolute;
         display: inline-block;
         text-align: center;
-        left: 15vw;
-        top: 70vh;
+        left: 14vw;
+        top: 85vh;
         width: 20.15vw;
         height: 5.39vw;
         font-family: 'myriad pro light';
