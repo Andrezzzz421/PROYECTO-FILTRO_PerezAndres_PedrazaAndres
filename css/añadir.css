@@ -54,7 +54,7 @@ div.linea{
 }
 .anadir{
     position: absolute;
-    top: 1.23vw;
+    top: 2.4vh;
     left: 5vw;
     height: auto;
     width: 1.5vw;
@@ -66,13 +66,13 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.26vw;
+    top: 2.3vh;
     left: 7vw;
 }
 
 .reload {
     position: absolute;
-    top: 1.3vw;
+    top: 2.5vh;
     left: 18vw;
     height: auto;
     width: 1.4vw;
@@ -85,13 +85,13 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.23vw;
+    top: 2.23vh;
     left: 20vw;
 }
 
 .delete{
     position: absolute;
-    top: 1.2vw;
+    top: 2.4vh;
     left: 33vw;
     width: 1.2vw;
     height: auto;
@@ -103,21 +103,21 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.23vw;
-    left: 35vw;
+    top: 2.6vh;
+    left: 34.6vw;
 }
 
 .icono{
     position: absolute;
     left: 49vw;
-    top: 0.8vw;
+    top: 1.5vh;
     height: 2vw;
 }
 
 .report{
     position: absolute;
     height: 1.89vw;
-    top: 1vw;
+    top: 1.6vh;
     left:62vw;
 }
 
@@ -128,7 +128,7 @@ div.linea{
     font-family: 'myriad pro regular';
     font-size: 1.2vw;
     left: 64vw;
-    top: 1.15vw;
+    top: 2.15vh;
 }
 
 .help{
@@ -136,7 +136,7 @@ div.linea{
     left: 76vw;
     height: auto;
     width: 1.85vw;
-    top: 1vw;
+    top: 2vh;
 }
 
 .SS{
@@ -145,14 +145,14 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     left: 78.5vw;
-    top: 1.15vw;
+    top: 2.3vh;
     font-size: 1.2vw;
 }
 
 
 .SSS{
     position: absolute;
-    top: 1.45vw;
+    top: 2.9vh;
     left: 92.23vw;
     height: auto;
     width: 1.09vw;
@@ -160,7 +160,7 @@ div.linea{
 
 .EG{
     position: absolute;
-    top: 1.55vw;
+    top: 3.1vh;
     left: 94.14vw;
     height: auto;
     width:  0.98vw;
@@ -168,7 +168,7 @@ div.linea{
 
 .menu {
     position: absolute;
-    top: 0.5vw;
+    top: 1vh;
     left: 96vw;
     display: inline-block;
 }
@@ -217,14 +217,14 @@ div.linea{
     position: relative;
     margin: 0;
     width: 100vw;
-    height: 50vw;
+    height: 50vh;
 }
 
 .txt1{
     position: absolute;
     font-family: 'myriad pro regular';
     font-size: 2.08vw;
-    top: -1.5vw;
+    top: -1.5vh;
     left: 45vw;
     color: white;
 }
@@ -233,7 +233,7 @@ div.linea{
     position: absolute;
     font-family: 'myriad pro light';
     font-size:1.25vw;
-    top: 3.5vw;
+    top: 7vh;
     left: 39vw;
     color: white;
 
