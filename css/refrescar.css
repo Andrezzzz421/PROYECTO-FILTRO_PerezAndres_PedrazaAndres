@@ -1,11 +1,11 @@
 @font-face{
     font-family: 'myriad pro light';
-    src: url(../fuentes/Myriad\ Pro\ Light.otf);
+    src: url(./storage/font/Myriad\ Pro\ Light.otf);
 }
 
 @font-face{
     font-family: 'myriad pro regular';
-    src: url(../fuentes/Myriad\ Pro\ Regular.ttf);
+    src: url(./storage/font/Myriad\ Pro\ Regular.ttf);
     font-weight: bold;
 }
 

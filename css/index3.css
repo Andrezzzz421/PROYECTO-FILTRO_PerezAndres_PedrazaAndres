@@ -1,11 +1,11 @@
 @font-face{
     font-family: 'myriad pro light';
-    src: url(./Fuente/Myriad\ Pro\ Light.otf);
+    src: url(./storage/font/Myriad\ Pro\ Light.otf);
 }
 
 @font-face{
     font-family: 'myriad pro regular';
-    src: url(./Fuente/Myriad\ Pro\ Regular.ttf);
+    src: url(./storage/font/Myriad\ Pro\ Regular.ttf);
     font-weight: bold;
 }
 
@@ -984,12 +984,12 @@ div.linea{
   and (-webkit-device-pixel-ratio: 3) {
     @font-face{
         font-family: 'myriad pro light';
-        src: url(./Fuente/Myriad\ Pro\ Light.otf);
+        src: url(./storage/font/Myriad\ Pro\ Light.otf);
     }
     
     @font-face{
         font-family: 'myriad pro regular';
-        src: url(./Fuente/Myriad\ Pro\ Regular.ttf);
+        src: url(./storage/font/Myriad\ Pro\ Regular.ttf);
         font-weight: bold;
     }
     
