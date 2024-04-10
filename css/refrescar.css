@@ -28,7 +28,7 @@ section.home{
 .cuadrito {
     position: absolute;    
     width: 100vw; 
-    height: 7.5vh; 
+    height: 3.5vi;  
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -47,8 +47,8 @@ div.linea{
 }
 .anadir{
     position: absolute;
-    top: 1.25vw;
-    left: 9.79vw;
+    top: 1.23vw;
+    left: 5vw;
     height: auto;
     width: 1.5vw;
 }
@@ -59,14 +59,14 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.1vw;
-    left: 12vw;
+    top: 1.33vw;
+    left: 7vw;
 }
 
 .reload {
     position: absolute;
     top: 1.3vw;
-    left: 22.03vw;
+    left: 18vw;
     height: auto;
     width: 1.4vw;
     
@@ -78,15 +78,15 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.2vw;
-    left: 23.95vw;
+    top: 1.34vw;
+    left: 20vw;
 }
 
 .delete{
     position: absolute;
     top: 1.2vw;
-    left: 35.31vw;
-    width: 1.3vw;
+    left: 33vw;
+    width: 1.2vw;
     height: auto;
 }
 
@@ -95,14 +95,14 @@ div.linea{
     text-decoration: none;
     color: black;
     font-family: 'myriad pro regular';
-    font-size: 1.5vw;
-    top: 1.2vw;
-    left: 37.13vw;
+    font-size: 1.3vw;
+    top: 1.4vw;
+    left: 35vw;
 }
 
 .icono{
     position: absolute;
-    left: 51.5vw;
+    left: 49vw;
     top: 0.8vw;
     height: 2vw;
 }
@@ -111,7 +111,7 @@ div.linea{
     position: absolute;
     height: 1.89vw;
     top: 1vw;
-    left:63.43vw;
+    left:62vw;
 }
 
 .S{
@@ -120,13 +120,13 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.2vw;
-    left: 65.8vw;
-    top: 1.2vw;
+    left: 64vw;
+    top: 1.25vw;
 }
 
 .help{
     position: absolute;
-    left: 77.76vw;
+    left: 76vw;
     height: auto;
     width: 1.85vw;
     top: 1vw;
@@ -137,10 +137,11 @@ div.linea{
     text-decoration: none;
     color: black;
     font-family: 'myriad pro regular';
-    left: 80.20vw;
+    left: 78.5vw;
     top: 1.2vw;
     font-size: 1.2vw;
 }
+
 
 .SSS{
     position: absolute;
@@ -216,7 +217,7 @@ div.linea{
     font-family: 'myriad pro regular';
     font-size: 2.08vw;
     top: -2vh;
-    left: 44vw;
+    left: 46vw;
 }
 
 .txt2{
@@ -224,7 +225,7 @@ div.linea{
     font-family: 'myriad pro light';
     font-size:1.25vw;
     top: 9vh;
-    left: 40.3vw;
+    left: 41vw;
 }
 
 .txt3{
@@ -237,13 +238,13 @@ div.linea{
 
 .dropdown {
     position: absolute;
-    display: inline-block; 
+    display: inline-block;
     top: 35vh;
-    left: 34vw;    
+    left: 35vw;    
 }
   
 .dropdown label {
-    margin-right: 0.52vw; 
+    margin-right: 0.52vw;
 }
   
 .dropdown select {
@@ -252,10 +253,11 @@ div.linea{
     font-size: 14px;
     border: 2px solid #000000;
     border-radius: 10px;
+    background-color: white;
 }
   
 .dropdown select:focus {
-    border-color: #007bff; 
+    border-color: #007bff;
     outline: none; 
 }
 
@@ -264,12 +266,12 @@ div.linea{
     font-family: 'myriad pro regular';
     font-size:1.25vw;
     top: 48vh;
-    left: 42.5vw;
+    left: 44vw;
 }
 
 .cuadro1{
     position: absolute;
-    left: 40vw;
+    left: 41.5vw;
     top: 58vh;
     width: 23vw;
     height: 5vh;
@@ -282,7 +284,7 @@ div.linea{
     position: absolute;
     display: inline-block;
     text-align: center;
-    left: 46.8vw;
+    left: 49vw;
     top: 75vh;
     width: 10.15vw;
     height: 2.39vw;
