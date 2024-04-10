@@ -35,7 +35,7 @@ body{
     position: absolute;
     background-color: white;
     width: 40vi;
-    height: 30vi;
+    height: 33vi;
     top: 13vi;
     left: 29vi;
     animation: login 4s forwards;
@@ -78,7 +78,7 @@ h2{
 }
 .final{
     position: absolute;
-    top: 27vi;
+    top: 29vi;
     left: 6.5vi;
     width: 30vi;
     height: 5vi;
@@ -119,10 +119,11 @@ h2{
 .Boton{
     position: absolute;
     background-color: orangered;
-    top: 23.5vi;
-    left: 15vi;
-    width: 10vi;
+    font-size: 1.6em;
+    top: 24vi;
+    left: 12.5vi;
+    width: 15vi;
     height: 3vi;
     opacity: 1;
-    border-radius: 20px;
+    border-radius: 1.9em;
 }
