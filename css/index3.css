@@ -217,188 +217,151 @@ div.linea{
     position: absolute;
     font-family: 'myriad pro regular';
     font-size: 2.08vw;
+    text-align: center;
     top: -1.5vw;
-    left: 46vw;
+    left: 42vw;
 }
 
 .txt2{
     position: absolute;
     font-family: 'myriad pro light';
     font-size:1.25vw;
+    text-align: center;
     top: 3.5vw;
-    left: 41vw;
+    left: 30vw;
 }
 
 .clase1{
     position: absolute;
-    font-size: 1.04vw;
+    font-size: 2em;
     font-family: 'myriad pro regular';
     left: 5vw;
-    top: 20vh; 
+    top: 15vh; 
 }
 .cuadrao1{
     position: absolute;
-    left: 5vw;
-    top: 25vh;
-    width: 10vw;
-    height: 5vh;
-    background-color: white;
-    border: 2px solid black;
-    border-radius: 10px; 
+    left: 10em;
+    top: 24em;
+    width: 116em;
+    height: 3.8em;
+    border: 1px solid blueviolet;
+    border-radius: 1em;
 }
-
+.Fila1_1{
+    position: absolute;
+    left: 12em;
+}
 .clase2{
     position: absolute;
-    font-size: 1.04vw;
+    font-size: 2em;
     font-family: 'myriad pro regular';
     left: 20vw;
-    top: 20vh; 
+    top: 15vh; 
 }
 
 .cuadrao2{
     position: absolute;
-    left: 20vw;
-    top: 25vh;
-    width: 10vw;
-    height: 5vh;
-    background-color: white;
-    border: 2px solid black;
-    border-radius: 10px;
+    left: 10em;
+    top: 30em;
+    width: 116em;
+    height: 3.8em;
+    border: 1px solid blueviolet;
+    border-radius: 1em;
 }
 
 .clase3{
     position: absolute;
-    font-size: 1.04vw;
+    font-size: 2em;
     font-family: 'myriad pro regular';
-    left: 35vw;
-    top: 20vh; 
+    left: 30vw;
+    top: 15vh; 
 }
 
 .cuadrao3{
     position: absolute;
-    left: 35vw;
-    top: 25vh;
-    width: 10vw;
-    height: 5vh;
-    background-color: white;
-    border: 2px solid black;
-    border-radius: 10px;
+    left: 10em;
+    top: 36em;
+    width: 116em;
+    height: 3.8em;
+    border: 1px solid blueviolet;
+    border-radius: 1em;
 }
 
 .clase4{
     position: absolute;
-    font-size: 1.04vw;
+    font-size: 2em;
     font-family: 'myriad pro regular';
-    left: 50vw;
-    top: 20vh; 
+    left: 37vw;
+    top: 15vh; 
 }
 
 .cuadrao4{
     position: absolute;
-    left: 50vw;
-    top: 25vh;
-    width: 10vw;
-    height: 5vh;
-    background-color: white;
-    border: 2px solid black;
-    border-radius: 10px;
+    left: 10em;
+    top: 42em;
+    width: 116em;
+    height: 3.8em;
+    border: 1px solid blueviolet;
+    border-radius: 1em;
 }
 
 .clase5{
     position: absolute;
-    font-size: 1.04vw;
+    font-size: 2em;
     font-family: 'myriad pro regular';
-    left: 65vw;
-    top: 20vh; 
+    left: 46vw;
+    top: 15vh; 
 }
 
 .cuadrao5{
     position: absolute;
-    left: 65vw;
-    top: 25vh;
-    width: 10vw;
-    height: 5vh;
-    background-color: white;
-    border: 2px solid black;
-    border-radius: 10px;
+    left: 10em;
+    top: 48em;
+    width: 116em;
+    height: 3.8em;
+    border: 1px solid blueviolet;
+    border-radius: 1em;
 }
 
 .clase6{
     position: absolute;
-    font-size: 1.04vw;
+    font-size: 2em;
     font-family: 'myriad pro regular';
     left: 80vw;
-    top: 20vh; 
+    top: 15vh; 
 }
 
 .cuadrao6{
     position: absolute;
-    left: 80vw;
-    top: 25vh;
-    width: 10vw;
-    height: 5vh;
-    background-color: white;
-    border: 2px solid black;
-    border-radius: 10px;
+    left: 10em;
+    top: 54em;
+    width: 116em;
+    height: 3.8em;
+    border: 1px solid blueviolet;
+    border-radius: 1em;
 }
 
 .clase7{
     position: absolute;
-    font-size: 1.04vw;
+    font-size: 2em;
     font-family: 'myriad pro regular';
     left: 5vw;
-    top: 50vh; 
+    top: 30vh; 
 }
-
-.cuadrao7{
-    position: absolute;
-    left: 5vw;
-    top: 55vh;
-    width: 10vw;
-    height: 5vh;
-    background-color: white;
-    border: 2px solid black;
-    border-radius: 10px;
-}
-
 .clase8{
     position: absolute;
-    font-size: 1.04vw;
+    font-size: 2em;
     font-family: 'myriad pro regular';
     left: 20vw;
     top: 50vh; 
 }
-
-.cuadrao8{
-    position: absolute;
-    left: 20vw;
-    top: 55vh;
-    width: 10vw;
-    height: 5vh;
-    background-color: white;
-    border: 2px solid black;
-    border-radius: 10px;
-}
-
 .clase9{
     position: absolute;
-    font-size: 1.04vw;
+    font-size: 2em;
     font-family: 'myriad pro regular';
     left: 35vw;
     top: 50vh; 
 }
-
-.cuadrao9{
-    position: absolute;
-    left: 35vw;
-    top: 55vh;
-    width: 10vw;
-    height: 5vh;
-    background-color: white;
-    border: 2px solid black;
-    border-radius: 10px;
-}
-
 .boton{
     position: absolute;
     display: inline-block;
