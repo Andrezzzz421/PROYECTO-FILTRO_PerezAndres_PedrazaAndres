@@ -12,11 +12,12 @@
 
 body{
     margin: 0;
-    position: relative;
+    position: absolute;
     width: 100vw; 
     height: 100vh;
     overflow-x: hidden;
     overflow-y: hidden;
+    display: flex;
 }
 
 section.home{
@@ -244,53 +245,62 @@ div.linea{
     top: 19em;
     width: 150em;
     height: 3.8em;
-    border: 1px solid blueviolet;
+    border: 1px solid black;
     border-radius: 1em;
 }
 .Fila1_1{
     position: absolute;
     left: 1em;
     top: 1em;
+    font-size: 1.5em;
 }   
 .Fila1_2{
     position: absolute;
     left: 12em;
     top: 1em;
+    font-size: 1.5em;
 }
 .Fila1_3{
     position: absolute;
     left: 25em;
     top: 1em;
+    font-size: 1.5em;
 }
 .Fila1_4{
     position: absolute;
     left: 30em;
     top: 1em;
+    font-size: 1.5em;
 }
 .Fila1_5{
     position: absolute;
     left: 35em;
     top: 1em;
+    font-size: 1.5em;
 }
 .Fila1_6{
     position: absolute;
     left: 42em;
     top: 1em;
+    font-size: 1.5em;
 }
 .Fila1_7{
     position: absolute;
     left: 50em;
     top: 1em;
+    font-size: 1.5em;
 }
 .Fila1_8{
     position: absolute;
     left: 55em;
     top: 1em;
+    font-size: 1.5em;
 }
 .Fila1_9{
     position: absolute;
     left: 60em;
     top: 1em;
+    font-size: 1.5em;
 }
 .clase2{
     position: absolute;
@@ -306,10 +316,63 @@ div.linea{
     top: 30em;
     width: 116em;
     height: 3.8em;
-    border: 1px solid blueviolet;
+    border: 1px solid black;
     border-radius: 1em;
 }
-
+.Fila2_1{
+    position: absolute;
+    left: 1em;
+    top: 1.5em;
+    font-size: 1.5em;
+}   
+.Fila2_2{
+    position: absolute;
+    left: 12em;
+    top: 1.5em;
+    font-size: 1.5em;
+}
+.Fila2_3{
+    position: absolute;
+    left: 25em;
+    top: 1.5em;
+    font-size: 1.5em;
+}
+.Fila2_4{
+    position: absolute;
+    left: 30em;
+    top: 1.5em;
+    font-size: 1.5em;
+}
+.Fila2_5{
+    position: absolute;
+    left: 35em;
+    top: 1.5em;
+    font-size: 1.5em;
+}
+.Fila2_6{
+    position: absolute;
+    left: 42em;
+    top: 1.5em;
+    font-size: 1.5em;
+}
+.Fila2_7{
+    position: absolute;
+    left: 50em;
+    top: 1.5em;
+    font-size: 1.5em;
+}
+.Fila2_8{
+    position: absolute;
+    left: 55em;
+    top: 1.5em;
+    font-size: 1.5em;
+}
+.Fila2_9{
+    position: absolute;
+    left: 60em;
+    top: 1.5em;
+    font-size: 1.5em;
+}
 .clase3{
     position: absolute;
     font-size: 1.5em;
@@ -320,14 +383,67 @@ div.linea{
 
 .cuadrao3{
     position: absolute;
-    left: 10em;
+    left: 8em;
     top: 36em;
     width: 116em;
     height: 3.8em;
-    border: 1px solid blueviolet;
+    border: 1px solid black;
     border-radius: 1em;
 }
-
+.Fila3_1{
+    position: absolute;
+    left: 1em;
+    top: 1em;
+    font-size: 1.5em;
+}   
+.Fila3_2{
+    position: absolute;
+    left: 12em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila3_3{
+    position: absolute;
+    left: 25em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila3_4{
+    position: absolute;
+    left: 30em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila3_5{
+    position: absolute;
+    left: 35em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila3_6{
+    position: absolute;
+    left: 42em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila3_7{
+    position: absolute;
+    left: 50em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila3_8{
+    position: absolute;
+    left: 55em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila3_9{
+    position: absolute;
+    left: 60em;
+    top: 1em;
+    font-size: 1.5em;
+}
 .clase4{
     position: absolute;
     font-size: 1.5em;
@@ -338,14 +454,67 @@ div.linea{
 
 .cuadrao4{
     position: absolute;
-    left: 10em;
+    left: 8em;
     top: 42em;
     width: 116em;
     height: 3.8em;
-    border: 1px solid blueviolet;
+    border: 1px solid black;
     border-radius: 1em;
 }
-
+.Fila4_1{
+    position: absolute;
+    left: 1em;
+    top: 1em;
+    font-size: 1.5em;
+}   
+.Fila4_2{
+    position: absolute;
+    left: 12em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila4_3{
+    position: absolute;
+    left: 25em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila4_4{
+    position: absolute;
+    left: 30em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila4_5{
+    position: absolute;
+    left: 35em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila4_6{
+    position: absolute;
+    left: 42em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila4_7{
+    position: absolute;
+    left: 50em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila4_8{
+    position: absolute;
+    left: 55em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila4_9{
+    position: absolute;
+    left: 60em;
+    top: 1em;
+    font-size: 1.5em;
+}
 .clase5{
     position: absolute;
     font-size: 1.5em;
@@ -356,14 +525,67 @@ div.linea{
 
 .cuadrao5{
     position: absolute;
-    left: 10em;
+    left: 8em;
     top: 48em;
     width: 116em;
     height: 3.8em;
-    border: 1px solid blueviolet;
+    border: 1px solid black;
     border-radius: 1em;
 }
-
+.Fila5_1{
+    position: absolute;
+    left: 1em;
+    top: 1em;
+    font-size: 1.5em;
+}   
+.Fila5_2{
+    position: absolute;
+    left: 12em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila5_3{
+    position: absolute;
+    left: 25em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila5_4{
+    position: absolute;
+    left: 30em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila5_5{
+    position: absolute;
+    left: 35em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila5_6{
+    position: absolute;
+    left: 42em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila5_7{
+    position: absolute;
+    left: 50em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila5_8{
+    position: absolute;
+    left: 55em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila5_9{
+    position: absolute;
+    left: 60em;
+    top: 1em;
+    font-size: 1.5em;
+}
 .clase6{
     position: absolute;
     font-size: 1.5em;
@@ -374,14 +596,67 @@ div.linea{
 
 .cuadrao6{
     position: absolute;
-    left: 10em;
+    left: 8em;
     top: 54em;
     width: 116em;
     height: 3.8em;
-    border: 1px solid blueviolet;
+    border: 1px solid black;
     border-radius: 1em;
 }
-
+.Fila6_1{
+    position: absolute;
+    left: 1em;
+    top: 1em;
+    font-size: 1.5em;
+}   
+.Fila6_2{
+    position: absolute;
+    left: 12em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila6_3{
+    position: absolute;
+    left: 25em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila6_4{
+    position: absolute;
+    left: 30em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila6_5{
+    position: absolute;
+    left: 35em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila6_6{
+    position: absolute;
+    left: 42em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila6_7{
+    position: absolute;
+    left: 50em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila6_8{
+    position: absolute;
+    left: 55em;
+    top: 1em;
+    font-size: 1.5em;
+}
+.Fila6_9{
+    position: absolute;
+    left: 60em;
+    top: 1em;
+    font-size: 1.5em; 
+}
 .clase7{
     position: absolute;
     font-size: 1.5em;
@@ -408,14 +683,14 @@ div.linea{
     display: inline-block;
     text-align: center;
     left: 47vw;
-    top: 72vh;
+    top: 90vh;
     width: 10.15vw;
     height: 2.39vw;
     font-family: 'myriad pro light';
     background-color: #fc6d2d;
     color: white;
     text-decoration: none;
-    border: none;
+    border: none;   
     border-radius: 10px;
     cursor: pointer;
     line-height: 2.39vw;
