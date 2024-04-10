@@ -28,7 +28,7 @@ section.home{
 .cuadrito {
     position: absolute;    
     width: 100vw; 
-    height: 7.5vh; 
+    height: 3.5vi; 
     display: flex;
     justify-content: space-between;
     align-items: center;
