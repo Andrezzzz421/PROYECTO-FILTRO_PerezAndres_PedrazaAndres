@@ -217,16 +217,16 @@ div.linea{
 .txt1{
     position: absolute;
     font-family: 'myriad pro regular';
-    font-size: 2.08vw;
+    font-size: 2.5vi;
     text-align: center;
-    top: -1.5vw;
-    left: 39vw;
+    top: 2vi;
+    left: -9vi;
 }
 
 .txt2{
     position: absolute;
     font-family: 'myriad pro light';
-    font-size:1.25vw;
+    font-size:1.5vi;
     text-align: center;
     top: 3.5vw;
     left: 26vw;
@@ -236,34 +236,34 @@ div.linea{
     position: absolute;
     font-size: 1.5em;
     font-family: 'myriad pro regular';
-    left: 5vw;
-    top: 17vh; 
+    left: -45.5vi;
+    top: 16vi; 
 }
 .cuadrao1{
     position: absolute;
-    left: 8em;
-    top: 19em;
-    width: 150em;
-    height: 3.8em;
+    left: -47vi;
+    top: 20vi;
+    width: 90vi;
+    height: 3.8vi;
     border: 1px solid black;
     border-radius: 1em;
 }
 .Fila1_1{
     position: absolute;
     left: 1em;
-    top: 1em;
+    top: 1.2vi;
     font-size: 1.5em;
 }   
 .Fila1_2{
     position: absolute;
     left: 12em;
-    top: 1em;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila1_3{
     position: absolute;
-    left: 25em;
-    top: 1em;
+    left: 30vi;
+    top: 1.2vi;
     font-size: 1.5em;
 }
 .Fila1_4{
@@ -306,8 +306,8 @@ div.linea{
     position: absolute;
     font-size: 1.5em;
     font-family: 'myriad pro regular';
-    left: 20vw;
-    top: 17vh; 
+    left: -31vi;
+    top: 16vi; 
 }
 
 .cuadrao2{
