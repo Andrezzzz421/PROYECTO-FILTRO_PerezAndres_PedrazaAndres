@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url(./Imagenes/Fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000;
+}
+.Logo{
+    position: absolute;
+    top: 23vi;
+    left: 45vi;
+    animation: logo 2s;
+    opacity: 0;
+}
+@keyframes logo{
+    0%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.Login{
+    position: absolute;
+    background-color: white;
+    width: 40vi;
+    height: 30vi;
+    top: 13vi;
+    left: 29vi;
+    animation: login 4s forwards;
+    animation-delay: 2.5s;
+    opacity: 0;
+    border-radius: 67px;
+}
+@keyframes login{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.Imagen{
+    position: absolute;
+    top: 1vi;
+    left: 17.5vi;
+    z-index: 1;  
+}
