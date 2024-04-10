@@ -17,6 +17,8 @@ body{
     height: 100vh;
     overflow-x: hidden;
     overflow-y: hidden;
+    background-color: black;
+    background-image: url(../images/back.png);
 }
 
 section.home{
@@ -28,14 +30,15 @@ section.home{
 .cuadrito {
     position: absolute;    
     width: 100vw; 
-    height: 3.5vi;  
+    height: 3.8vi;  
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
-    
+    background-color: white;    
 }
+
 div.linea{
+    top: 1.6vi;
     position: absolute;
     margin: 0%;
     width: 100vw; 
@@ -59,7 +62,7 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.15vw;
+    top: 1.26vw;
     left: 7vw;
 }
 
@@ -78,7 +81,7 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.15vw;
+    top: 1.23vw;
     left: 20vw;
 }
 
@@ -96,7 +99,7 @@ div.linea{
     color: black;
     font-family: 'myriad pro regular';
     font-size: 1.3vw;
-    top: 1.15vw;
+    top: 1.23vw;
     left: 35vw;
 }
 
@@ -212,7 +215,7 @@ div.linea{
     width:48vw;
     height: 82vh;
     border-radius: 2vw;
-    background: linear-gradient(to right, #fc6d2d, #e68057);
+    background: #E5E5E5;
 }
 
 .txt1{
@@ -303,6 +306,6 @@ div.linea{
 }
 
 .boton:hover {
-    background-color: gray; 
+    background-color:rgb(222, 211, 211); 
     color: #ffffff; 
 }
